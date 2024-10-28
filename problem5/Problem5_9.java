@@ -1,6 +1,6 @@
 package problem5;
 
-public class Problems5_9 {
+public class Problem5_9 {
     public static void main(String[] args) {
         int[] d = new int[10];
 

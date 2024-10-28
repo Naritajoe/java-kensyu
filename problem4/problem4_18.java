@@ -1,6 +1,6 @@
 package problem4;
 
-public class project4_18 {
+public class problem4_18 {
 
     public static void main(String[] args) {
         // forの二重ループ
